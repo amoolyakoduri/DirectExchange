@@ -1,0 +1,38 @@
+.profile-container {
+    display: flex;
+    flex-direction: row;
+    padding: 2%;
+    height: -webkit-fill-available;
+}
+
+.p-attr {
+    padding: 2%;
+}
+
+.od-container {
+    margin: 2%;
+}
+
+.p-name-container {
+    display: flex;
+    flex-direction: column;
+    padding-left: 5%;
+    padding-right: 5%;
+    width: 40%;
+}
+
+.profile {
+    font-family: 'Metropolis', 'Avenir Next', 'Helvetica';
+    width: -webkit-fill-available;
+    height: -webkit-fill-available;
+    font-size: medium;
+}
+
+.p-img-container {
+    width: 20%;
+}
+
+.p-img {
+    width: 100%;
+    height: 100%;
+}
