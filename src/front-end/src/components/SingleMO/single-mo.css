@@ -1,0 +1,44 @@
+.quiz-card-container {
+    font-family: 'Metropolis', 'Avenir Next', 'Helvetica';
+    font-size: small;
+    width: -webkit-fill-available;
+    height: auto;
+    margin: 2%;
+}
+
+.pad-icon {
+    padding-left: 2%;
+    padding-right: 2%;
+    color: #3895d4;
+}
+
+hr { display: block; height: 1px;
+    border: 0; border-top: 1px solid #8b939a;
+    margin: 1em 0; padding: 0;
+}
+
+.p-row{
+    display: flex;
+    flex-direction: column;
+    width: -webkit-fill-available;
+
+}
+
+.p-col{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+.single-container {
+    display: flex;
+    flex-direction: row;
+    padding-top: 2%;
+    padding-left: 2%;
+    padding-right: 2%;
+    height: -webkit-fill-available;
+}
+
+.single-attr {
+    padding: 2%;
+}

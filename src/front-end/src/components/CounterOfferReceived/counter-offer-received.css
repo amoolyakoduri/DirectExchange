@@ -1,0 +1,42 @@
+
+hr { display: block; height: 1px;
+    border: 0; border-top: 1px solid #8b939a;
+    margin: 1em 0; padding: 0;
+}
+
+.cor-row{
+    display: flex;
+    flex-direction: column;
+    width: -webkit-fill-available;
+
+}
+
+.cor-name-container {
+    width: 50%;
+}
+
+.cor-col{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+
+.cor-col-button{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+
+.cor-container {
+    display: flex;
+    flex-direction: column;
+    padding-top: 2%;
+    padding-left: 2%;
+    padding-right: 2%;
+    height: -webkit-fill-available;
+}
+
+.cor-attr {
+    padding: 2%;
+}

@@ -1,0 +1,27 @@
+.aso-container {
+    margin: 2%;
+    display: flex;
+    flex-direction: column;
+    font-family: 'Metropolis', 'Avenir Next', 'Helvetica';
+    font-size: small;
+    height: -webkit-fill-available;
+    margin: 6%;
+}
+
+.aso-col {
+    display: flex;
+    flex-direction: column;
+    margin: 2%;
+    align-items: center;
+}
+
+.aso-line {
+    padding: 1%;
+    width: -webkit-fill-available;
+    align-items: center;
+}
+
+.aso-heading{
+    padding: 1%;
+    color: #65686b;
+}

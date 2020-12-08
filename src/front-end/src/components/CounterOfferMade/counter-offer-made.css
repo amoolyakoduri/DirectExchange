@@ -1,0 +1,31 @@
+
+hr { display: block; height: 1px;
+    border: 0; border-top: 1px solid #8b939a;
+    margin: 1em 0; padding: 0;
+}
+
+.com-row{
+    display: flex;
+    flex-direction: column;
+    width: -webkit-fill-available;
+
+}
+
+.com-col{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+.com-container {
+    display: flex;
+    flex-direction: row;
+    padding-top: 2%;
+    padding-left: 2%;
+    padding-right: 2%;
+    height: -webkit-fill-available;
+}
+
+.com-attr {
+    padding-top: 1%;
+}

@@ -1,0 +1,22 @@
+.h-heading-contaiener {
+    font-family: 'Metropolis', 'Avenir Next', 'Helvetica';
+    font-size: small;
+    padding-top: 5%;
+    padding-left: 5%;
+}
+
+.history-container {
+    display: flex;
+    flex-direction: column;
+    width: -webkit-fill-available;
+    height: -webkit-fill-available;
+    justify-content: initial;
+    background-color: white;
+}
+
+.h-cards-row-container {
+    display: flex;
+    flex-direction: row;
+    padding-left: 5%;
+    padding-right: 5%;
+}

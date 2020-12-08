@@ -1,0 +1,31 @@
+.c-container {
+    margin: 2%;
+    display: flex;
+    flex-direction: column;
+    font-family: 'Metropolis', 'Avenir Next', 'Helvetica';
+    font-size: small;
+    height: -webkit-fill-available;
+    margin: 6%;
+}
+
+.c-col {
+    display: flex;
+    flex-direction: column;
+    margin: 2%;
+    align-items: center;
+}
+
+.c-line {
+    padding: 1%;
+    width: -webkit-fill-available;
+    align-items: center;
+}
+
+.c-heading{
+    padding: 1%;
+    color: #65686b;
+}
+
+.c-highlight {
+
+}
