@@ -1,0 +1,7 @@
+.quiz-card-container {
+    font-family: 'Metropolis', 'Avenir Next', 'Helvetica';
+    font-size: small;
+    width: -webkit-fill-available;
+    height: auto;
+    margin: 5%;
+}

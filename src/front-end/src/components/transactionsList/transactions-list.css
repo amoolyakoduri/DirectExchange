@@ -1,0 +1,36 @@
+.r-heading-contaiener {
+    font-family: 'Metropolis', 'Avenir Next', 'Helvetica';
+    font-size: small;
+    padding-top: 5%;
+    padding-left: 5%;
+}
+
+.ol-container {
+    display: flex;
+    flex-direction: column;
+    width: -webkit-fill-available;
+    height: -webkit-fill-available;
+    justify-content: initial;
+    background-color: white;
+    margin: 2%;
+}
+
+.r-cards-container {
+    display: flex;
+    flex-direction: column;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.ol-msg-container {
+    display: flex;
+    flex-direction: column;
+    padding-left: 5%;
+    padding-right: 5%;
+    font-size: large;
+    font-weight: 600;
+}
+
+.txn-pad-left {
+    padding-left: 4%;
+}

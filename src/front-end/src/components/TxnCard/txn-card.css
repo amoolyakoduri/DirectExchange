@@ -1,0 +1,66 @@
+.split-style {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.quiz-card-container {
+    font-family: 'Metropolis', 'Avenir Next', 'Helvetica';
+    font-size: small;
+    width: -webkit-fill-available;
+    height: auto;
+    margin: 5%;
+}
+
+.col-style{
+    display: flex;
+    flex-direction: column;
+}
+
+.pad-icon {
+    padding-left: 2%;
+    padding-right: 2%;
+    color: #3895d4;
+}
+
+.txn-name-container {
+
+    padding-right: 5%;
+    width: 72%
+}
+
+.sp-offer-btn-container {
+    padding-left: 5%;
+    width:  -webkit-fill-available;
+}
+
+.sp-offer-container {
+    padding-left: 5%;
+    padding-right: 5%;
+    width:  -webkit-fill-available;
+}
+
+.split-profile {
+    display: flex;
+    flex-direction: row;
+    padding: 2%;
+    height: -webkit-fill-available;
+    font-family: 'Metropolis', 'Avenir Next', 'Helvetica';
+}
+
+.split-profile-button {
+    display: flex;
+    flex-direction: row;
+    font-family: 'Metropolis', 'Avenir Next', 'Helvetica';
+    justify-content: flex-end;
+}
+
+.sp-heading{
+    font-weight: 700;
+    font-size: large;
+    color: #3995d4;
+}
+
+.split-attr {
+    padding: 2%;
+}
